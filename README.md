@@ -1,1 +1,1 @@
-# Html ve Css kullanılarak Kuaför Web Sitesi Hergangi bir işlevi yoktur.
+# Html ve Css kullanılarak Kuaför Web Sitesi Örneği.
